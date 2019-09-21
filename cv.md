@@ -3,7 +3,7 @@
 #### -Contact info:
 + e-mail: a.zhuravliev@gmail.com
 + tel: +7-960-345-50-00
-+ github: Megalit7
++ github: [Megalit7](https://github.com/Megalit7)
 
 
 #### Summary:
@@ -34,3 +34,11 @@ print(int(a['восток']) - int(a['запад']),int(a['север']) - int(a
 ![certificate web dev start](https://megalit7.github.io/rsschool-cv/assets/img/sert_web.png)
 
 
+#### Education:
+
++ 1998-2003 Энгельсский Технологический Институт, филиал Саратовского Государственного Технического Университета. Факультет: Технология Электрохимических Производств. Специальность: Электрохимические источники тока.
+
+
+#### English: 
+
++ He studied German at school and institute. I try to learn English on my own. google translator - my everything ...

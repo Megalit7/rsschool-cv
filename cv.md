@@ -5,8 +5,10 @@
 + tel: +7-960-345-50-00
 + github: Megalit7
 
+
 #### Summary:
 From school I loved programming. But life has led to construction. tired of constant trips, I want to stop. I decided to return to programming. I'm interested in web development. I like to learn, learn something new. ready to evolve.
+
 
 #### Skills:
 He worked for many years as a system administrator. independently studied:
@@ -14,6 +16,7 @@ He worked for many years as a system administrator. independently studied:
 * html,
 * css.
 In all of the above - a beginner.
+
 
 #### Code Example (example use markdown):
 
@@ -26,5 +29,8 @@ for i in range(n):
 print(int(a['восток']) - int(a['запад']),int(a['север']) - int(a['юг']))
 ```
 
+#### IT education:
+![certificate python start](https://megalit7.github.io/rsschool-cv/assets/img/sert_pyt.png)
+![certificate web dev start](https://megalit7.github.io/rsschool-cv/assets/img/sert_web.png)
 
 

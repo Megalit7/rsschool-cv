@@ -1,0 +1,79 @@
+body {
+    max-width: 1024px;
+    /* display: flex; */
+    /* justify-content: center; */
+    margin: 30px auto;
+    background-color: rgb(210, 236, 231);
+    font-family: Mansalva, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p {
+    /* font-family: "Nanum Gothic", Helvetica, sans-serif; */
+    font-size: 24px;
+}
+
+.code {
+    font-family: "Nanum Gothic", Helvetica, sans-serif;
+    font-size: 24px;
+    margin-left: 50px;
+    background-color: rgb(167, 238, 185);
+    letter-spacing: 0.1em;
+}
+
+.red {
+    color: red;
+
+}
+.black {
+    color: black;
+}
+.blue {
+    color: blue;
+}
+.hr {
+    color:rgb(82, 45, 45);
+    
+}
+
+.header {
+    display: inline-flex;
+    
+}
+
+.header .photo img {
+    /* display: inline; */
+    width: 174px;
+    transform: scaleX(-1);
+}
+
+.header-info {
+    margin: 0 20px;
+    width: 850px;
+}
+
+a:hover {
+    color: red;
+    font-size: 30px;
+}
+
+img.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.name {
+    font-size: 32px;;
+}
+li {
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+}

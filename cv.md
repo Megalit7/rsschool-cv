@@ -11,7 +11,7 @@ From school I loved programming. But life has led to construction. tired of cons
 
 
 #### Skills:
-He worked for many years as a system administrator. independently studied:
+Worked for many years as a system administrator. independently studied:
 * python,
 * html,
 * css.
